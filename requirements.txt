@@ -1,4 +1,4 @@
-pytorch fastbook
+pytorch
 voila
 fastai
 pillow<7
