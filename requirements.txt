@@ -1,4 +1,4 @@
-pytorch
+torch
 voila
 fastai
 pillow<7
