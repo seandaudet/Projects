@@ -1,5 +1,5 @@
 # Ginger or Not?
- This is my first deep learning project. It is a computer vision project designed to identify if a picture conatains ginger person or not.
+ This is my first deep learning project. It is a computer vision project designed to identify if a picture contains ginger person or not.
  
  ## Repo files
  .gitattributes: 
