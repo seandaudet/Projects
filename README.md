@@ -2,8 +2,8 @@
  This is my first deep learning project. It is a computer vision project designed to identify if a picture contains ginger person or not.
  
  ## Repo files
- .gitattributes: 
- Ginger Web App.ipynb: Python script for deploying web application
+ .gitattributes: /n
+ Ginger Web App.ipynb: Python script for deploying web application /n
 Training.ipynb: Python script for training the predictor
 export.pkl: Predictor
 requirements.txt: List of libraries needed to run 'Ginger Web App'
