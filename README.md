@@ -3,10 +3,10 @@
  
  ## Repo files
  .gitattributes:  
- Ginger Web App.ipynb: Python script for deploying web application /n
-Training.ipynb: Python script for training the predictor
-export.pkl: Predictor
-requirements.txt: List of libraries needed to run 'Ginger Web App'
+ Ginger Web App.ipynb: Python script for deploying web application  
+Training.ipynb: Python script for training the predictor  
+export.pkl: Predictor  
+requirements.txt: List of libraries needed to run 'Ginger Web App'  
 
  ## Data 
  The predictor is trained using picture labeled pictured of people (Ginger/Not Ginger). These were gathered using the duck duck go API.
