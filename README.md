@@ -16,3 +16,9 @@ Training was a done on Collab using fastai funtions.
 
 ## Deploying Web App
 The web app is deployed using Voila and Binder.
+
+## Results
+Accuracy: 0.836207
+
+# Conclusion
+The accuracy isn't great considering the difficulty of the task. 
