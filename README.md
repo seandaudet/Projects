@@ -20,9 +20,9 @@ The web app is deployed using Voila and Binder.
 ## Results
 Accuracy: 0.836207
 
-# Conclusion
+## Conclusion
 The accuracy isn't great considering the difficulty of the task. I found that binder is not consistant and that the link goes out of date over time. Next time I will try Heroku.
 
-# Link
+## Link
 
 https://mybinder.org/v2/gh/seandaudet/Projects/HEAD?urlpath=%2Fvoila%2Frender%2FGinger%20web%20app.ipynb
